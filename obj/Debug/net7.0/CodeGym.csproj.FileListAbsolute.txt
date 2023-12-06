@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive - Hanoi University of Science and Technology\Desktop\CodeGym\bin\Debug\net7.0\CodeGym.exe
+C:\Users\User\OneDrive - Hanoi University of Science and Technology\Desktop\CodeGym\bin\Debug\net7.0\CodeGym.deps.json
+C:\Users\User\OneDrive - Hanoi University of Science and Technology\Desktop\CodeGym\bin\Debug\net7.0\CodeGym.runtimeconfig.json
+C:\Users\User\OneDrive - Hanoi University of Science and Technology\Desktop\CodeGym\bin\Debug\net7.0\CodeGym.dll
+C:\Users\User\OneDrive - Hanoi University of Science and Technology\Desktop\CodeGym\bin\Debug\net7.0\CodeGym.pdb
+C:\Users\User\OneDrive - Hanoi University of Science and Technology\Desktop\CodeGym\obj\Debug\net7.0\CodeGym.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Hanoi University of Science and Technology\Desktop\CodeGym\obj\Debug\net7.0\CodeGym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Hanoi University of Science and Technology\Desktop\CodeGym\obj\Debug\net7.0\CodeGym.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Hanoi University of Science and Technology\Desktop\CodeGym\obj\Debug\net7.0\CodeGym.AssemblyInfo.cs
+C:\Users\User\OneDrive - Hanoi University of Science and Technology\Desktop\CodeGym\obj\Debug\net7.0\CodeGym.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Hanoi University of Science and Technology\Desktop\CodeGym\obj\Debug\net7.0\CodeGym.dll
+C:\Users\User\OneDrive - Hanoi University of Science and Technology\Desktop\CodeGym\obj\Debug\net7.0\refint\CodeGym.dll
+C:\Users\User\OneDrive - Hanoi University of Science and Technology\Desktop\CodeGym\obj\Debug\net7.0\CodeGym.pdb
+C:\Users\User\OneDrive - Hanoi University of Science and Technology\Desktop\CodeGym\obj\Debug\net7.0\CodeGym.genruntimeconfig.cache
+C:\Users\User\OneDrive - Hanoi University of Science and Technology\Desktop\CodeGym\obj\Debug\net7.0\ref\CodeGym.dll
